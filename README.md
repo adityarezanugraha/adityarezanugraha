@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityarezanugraha
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Big Data
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn --> https://www.linkedin.com/in/aditya-reza-nugraha/
